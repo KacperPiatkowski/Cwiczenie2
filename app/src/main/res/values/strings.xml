@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cwiczenie2</string>
+    <string name="Napis">Moj \nNapis</string>
+    <string name="DrugiNapis">Ten \nTekst \nwyswietla</string>
+</resources>
